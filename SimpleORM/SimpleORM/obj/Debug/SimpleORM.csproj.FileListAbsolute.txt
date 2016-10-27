@@ -1,0 +1,6 @@
+c:\users\alexander7337\documents\visual studio 2015\Projects\SimpleORM\SimpleORM\bin\Debug\SimpleORM.exe.config
+c:\users\alexander7337\documents\visual studio 2015\Projects\SimpleORM\SimpleORM\bin\Debug\SimpleORM.exe
+c:\users\alexander7337\documents\visual studio 2015\Projects\SimpleORM\SimpleORM\bin\Debug\SimpleORM.pdb
+c:\users\alexander7337\documents\visual studio 2015\Projects\SimpleORM\SimpleORM\obj\Debug\SimpleORM.csprojResolveAssemblyReference.cache
+c:\users\alexander7337\documents\visual studio 2015\Projects\SimpleORM\SimpleORM\obj\Debug\SimpleORM.exe
+c:\users\alexander7337\documents\visual studio 2015\Projects\SimpleORM\SimpleORM\obj\Debug\SimpleORM.pdb
